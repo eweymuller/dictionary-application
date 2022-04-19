@@ -1,4 +1,6 @@
 header {
-  margin: 20px;
+  margin-bottom: 20px;
   text-align: center;
+  background: rgb(32, 32, 32);
+  color: rgb(208, 212, 215);
 }
