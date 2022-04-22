@@ -7,17 +7,19 @@ import reportWebVitals from "./reportWebVitals";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
-    <footer>
-      This project was coded by Eva Weymuller and is open source code on{" "}
-      <a
-        href="https://github.com/eweymuller/dictionary-application"
-        target="_blank"
-        rel="noreferrer"
-      >
-        Github
-      </a>
-    </footer>
+    <div>
+      <App />
+      <footer>
+        This project was coded by Eva Weymuller and is open source code on{" "}
+        <a
+          href="https://github.com/eweymuller/dictionary-application"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>
+      </footer>
+    </div>
   </React.StrictMode>
 );
 

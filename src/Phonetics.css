@@ -3,15 +3,16 @@
   padding: 5px;
 }
 .phonetic,
-a {
+.phoneticAudio {
   text-decoration: none;
-  border: 1px solid rgb(30, 101, 193);
+  border: 1px solid rgb(59, 153, 235);
   border-radius: 20px;
   padding: 5px;
   color: rgb(109, 109, 109);
 }
 .phonetic,
-a:hover {
+.phoneticAudio:hover {
+  text-decoration: none;
   color: rgb(235, 235, 235);
-  background: rgb(4, 121, 224);
+  background: rgb(59, 153, 235);
 }

@@ -8,7 +8,7 @@ function App() {
         <header className="App-header">
           <h1>Dictionary</h1>
         </header>
-        <Dictionary defaultKeyWord="orange" />
+        <Dictionary defaultKeyWord="kindness" />
       </div>
     </div>
   );
